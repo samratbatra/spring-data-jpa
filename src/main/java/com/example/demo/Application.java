@@ -30,8 +30,7 @@ public class Application {
 //            pagination(studentRepository);
 //            oneToOneMappingDemo(studentRepository, studentIDCardRepository);
 //            manyToOneMappingDemo(studentRepository);
-
-            manyToManyMappingDemo(studentRepository);
+//            manyToManyMappingDemo(studentRepository);
 
         };
 
